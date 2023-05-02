@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Abdul Rafeh, a software engineer based in Islamabad, React NAtive Developer with 2 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
+I'm Abdul Rafeh, a software engineer based in Islamabad, React Native Developer with 2 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
 
 Graduated from [Foundation University of Pakistan](https://www.fui.edu.pk/) in Computer Sciences, I am also working as a React Native Developer at [Fiver](https://www.fiver.com/) & Senior React Native Developer at [Xiots](https://xiots.io/), where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 ### Connect with me:
 
-[<img align="left" alt="shahbazpro2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="abdulrafeh857 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rafeh.abdul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shahbazpro2 | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
+[<img align="left" alt="abdulrafeh857 | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="rafeh.abdul | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 
 <br />
 
