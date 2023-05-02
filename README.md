@@ -53,7 +53,7 @@ abdulrafeh857@gmail.com or +92-318-5335842
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrafeh857&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrafeh857&theme=light&show_icons=true&hide_border=true&count_private=true" />
 
 [twitter]: https://twitter.com/abdulrafeh857
 [instagram]: https://instagram.com/rafeh.abdul
