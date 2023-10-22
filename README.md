@@ -20,6 +20,7 @@ Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Com
 [<img align="left" alt="abdulrafeh857 | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="left" alt="shahbazpro2 | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img align="left" alt="rafeh.abdul | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+[<img align="left" alt="abdul.rafeh.857 | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][facebook]
 
 <br />
 
