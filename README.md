@@ -13,7 +13,7 @@
 
 I'm Abdul Rafeh, a software engineer based in Islamabad Pakistan, React Native Developer with 3 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
 
-Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I am working as a React Native Developer at [Xiots](https://xiots.io/), where I work on a wide variety of interesting and meaningful projects on a daily basis. I am also working as a React Native / React JS Developer at [Fiver](https://www.fiverr.com/abdulrafeh857)
+Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I currently serve as a React Native Developer at [Xiots](https://xiots.io/), where I engage in a broad range of intriguing and purposeful projects every day. I am also freelancing as a React Native/React JS Developer on [Fiver](https://www.fiverr.com/abdulrafeh857).
 
 ### Connect with me:
 
