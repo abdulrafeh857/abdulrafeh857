@@ -11,7 +11,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I'm Abdul Rafeh, a software engineer based in Islamabad Pakistan, React Native Developer with 3 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
+I'm Abdul Rafeh, a software engineer based in Islamabad Pakistan, React Native Developer with 3.5 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
 
 Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I currently serve as a React Native Developer at [Xiots](https://xiots.io/), where I engage in a broad range of intriguing and purposeful projects every day. I am also freelancing as a React Native/React JS Developer on [Fiverr](https://www.fiverr.com/s/8N0244).
 
