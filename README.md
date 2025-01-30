@@ -15,7 +15,7 @@ I’m Abdul Rafeh, a Senior React Native Developer based in Islamabad, Pakistan,
 
 With a keen eye for performance optimization, testing, and debugging, I am passionate about creating seamless digital experiences that enhance usability and efficiency. I thrive on leveraging the latest technologies to build scalable and maintainable applications, ensuring smooth performance and reliability. Constantly exploring innovative solutions, I aim to push the boundaries of mobile development and contribute to impactful digital transformation.
 
-Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I currently serve as a React Native Developer at [Nysonian Inc](https://www.nysonian.com/), where I engage in a broad range of intriguing and purposeful projects every day.
+Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I currently serve as a Senior React Native Developer at [Nysonian Inc](https://www.nysonian.com/), where I engage in a broad range of intriguing and purposeful projects every day.
 
 ### Connect with me:
 
