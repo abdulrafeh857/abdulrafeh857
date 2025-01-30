@@ -11,7 +11,9 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I'm Abdul Rafeh, a software engineer based in Islamabad Pakistan, Senior React Native Developer with 4 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
+I’m Abdul Rafeh, a Senior React Native Developer based in Islamabad, Pakistan, with over four years of experience in designing and developing high-performance mobile applications. My expertise lies in building intuitive user interfaces, optimizing app functionality, and enhancing data retrieval processes using modern backend technologies. I have a strong background in eCommerce, where I have successfully developed and optimized applications that streamline workflows and improve user engagement.
+
+With a keen eye for performance optimization, testing, and debugging, I am passionate about creating seamless digital experiences that enhance usability and efficiency. I thrive on leveraging the latest technologies to build scalable and maintainable applications, ensuring smooth performance and reliability. Constantly exploring innovative solutions, I aim to push the boundaries of mobile development and contribute to impactful digital transformation.
 
 Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I currently serve as a React Native Developer at [Nysonian Inc](https://www.nysonian.com/), where I engage in a broad range of intriguing and purposeful projects every day.
 
@@ -25,20 +27,20 @@ Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Com
 <br />
 
 ### Languages and Tools:
-Here are a few technologies 🔭 I’m currently working on with recently:
+Here are a few technologies 🔭 I’m currently working with:
 
-  - JavaScript (ES6+)
-  - HTML5 & (S)CSS3
-  - React Native
-  - React 
-  - Node.js
-  - WebSockets
-  - SQL/NOSQL
-  - RESTful API(s)
-  - GraphQL
-  - TypeScript
-  - Redux
-  - Firebase
+React Native (including animations, performance optimization, and native modules)
+React (Hooks, Context API, Server Components)
+JavaScript (ES6+) & TypeScript
+Redux (Toolkit, Saga, Thunk)
+Node.js (Express.js, NestJS)
+Firebase (Auth, Firestore, Cloud Functions, FCM)
+WebSockets & Real-time Data Syncing
+SQL/NoSQL Databases (PostgreSQL, MongoDB)
+RESTful APIs & GraphQL
+HTML5 & (S)CSS3
+Mobile CI/CD (Fastlane, Bitrise, App Center)
+App Performance Monitoring & Debugging (Flipper, Reactotron)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="26px" 
