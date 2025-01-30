@@ -29,18 +29,18 @@ Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Com
 ### Languages and Tools:
 Here are a few technologies 🔭 I’m currently working with:
 
-React Native (including animations, performance optimization, and native modules)
-React (Hooks, Context API, Server Components)
-JavaScript (ES6+) & TypeScript
-Redux (Toolkit, Saga, Thunk)
-Node.js (Express.js, NestJS)
-Firebase (Auth, Firestore, Cloud Functions, FCM)
-WebSockets & Real-time Data Syncing
-SQL/NoSQL Databases (PostgreSQL, MongoDB)
-RESTful APIs & GraphQL
-HTML5 & (S)CSS3
-Mobile CI/CD (Fastlane, Bitrise, App Center)
-App Performance Monitoring & Debugging (Flipper, Reactotron)
+React Native (including animations, performance optimization, and native modules)<br />
+React (Hooks, Context API, Server Components)<br />
+JavaScript (ES6+) & TypeScript<br />
+Redux (Toolkit, Saga, Thunk)<br />
+Node.js (Express.js, NestJS)<br />
+Firebase (Auth, Firestore, Cloud Functions, FCM)<br />
+WebSockets & Real-time Data Syncing<br />
+SQL/NoSQL Databases (PostgreSQL, MongoDB)<br />
+RESTful APIs & GraphQL<br />
+HTML5 & (S)CSS3<br />
+Mobile CI/CD (Fastlane, Bitrise, App Center)<br />
+App Performance Monitoring & Debugging (Flipper, Reactotron)<br />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="26px" 
